@@ -1,5 +1,5 @@
 {
-  "name": "constants-user-detail",
+  "name": "@sandewisdom/constants-user-detail",
   "version": "1.0.0",
   "description": "Constants in Sandewisdom projects about user details.",
   "main": "index.js",
